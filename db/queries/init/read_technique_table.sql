@@ -1,3 +1,3 @@
 -- Reads stuff table
 SELECT * 
-FROM stuff
+FROM technique
